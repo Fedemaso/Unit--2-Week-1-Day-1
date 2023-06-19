@@ -1,0 +1,168 @@
+@media screen and (min-width: 576px ) {
+body {
+    font-size: 1.8em;
+}
+
+
+h1 {
+    font-size: 4.6rem;
+}
+
+nav ul li{
+    display: inline;
+}
+
+address{
+    font-size: 1.9em;
+}
+}
+
+
+
+
+
+@media screen and (min-width: 768px) {
+
+body{
+    font-size: 1.5em;
+}
+    
+table {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5em;
+    margin-bottom: 5em;
+}
+
+section h2{
+    background-color: grey ;
+    text-transform: none; 
+}
+
+
+input {
+    width: 72%;
+}
+
+address {
+    font-size: 1.2em;
+}
+}
+
+
+
+
+
+@media screen and (min-width: 1200px) {
+
+body {
+    line-height: 2em;
+    font-size: 2em;
+}
+
+
+header {
+    overflow: auto;
+    width: 100%;
+    height: 75px;
+    
+  }
+  
+  header div {
+    
+    overflow: auto;
+    height: 100%;
+  display: table;
+  margin: 0 auto;
+  }
+  
+  header div img {
+    float: left;
+    max-height: 100%;
+  vertical-align: middle;
+  margin-right: 10px;
+  }
+  
+  header div p {
+    float: left;
+    margin-left: 10px;
+  }
+
+
+
+
+  header div {
+    float: left;
+  }
+  
+  header nav {
+    float: right;
+  }
+  
+  header ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  header li {
+    display: inline-block;
+    margin-left: 10px;
+  }
+
+
+h1 {
+    font-size: 3.6rem;
+}
+
+main{
+    height: auto;
+   
+}
+
+
+table {
+
+    width: 78%;
+    
+}
+
+iframe{
+    float: left;
+    width: 45%;
+    height: 243px;
+    margin-left: 5%;
+    margin-right: 0;
+    margin-bottom: 50px;
+
+}
+
+aside {
+    display: inline-block;
+    width: 100%;
+}
+
+section {
+    float: right;
+    width: 45%;
+    height: auto;
+    margin-right: 5%;
+    margin-left: 0;
+    margin-bottom: 50px;
+}
+    
+}
+
+aside div {
+    float: left; 
+    width: 33%;
+    }
+
+aside h2 {
+    font-size: 3rem;
+}
+
+footer{
+    padding-left: 20%;
+    padding-right: 20%;
+    font-size: 1.3rem;
+}
