@@ -51,8 +51,6 @@ address {
 
 
 
-
-
 @media screen and (min-width: 1200px) {
 
 body {
@@ -150,7 +148,7 @@ section {
     margin-bottom: 50px;
 }
     
-}
+
 
 aside div {
     float: left; 
@@ -165,4 +163,5 @@ footer{
     padding-left: 20%;
     padding-right: 20%;
     font-size: 1.3rem;
+}
 }
